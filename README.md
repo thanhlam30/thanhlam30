@@ -72,7 +72,7 @@ A marketing-focused website designed to showcase and promote products effectivel
 - Dynamic UI built with **React** and **Bootstrap**.  
 - Backend powered by **Spring Boot**, with database management using **MySQL**.  
 
-[![View Project](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo=springboot)](https://github.com/thanhlam30/VinfastCars)
+[![View Project](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo)](https://github.com/thanhlam30/VinfastCars)
 
 ---
 
