@@ -55,7 +55,7 @@ A responsive and feature-rich e-commerce platform for online shopping, built wit
 - Backend APIs powered by **Node.js** and **Express**.  
 - Database operations with **MongoDB**.  
 
-[![View Project]](https://github.com/duwj1211/Nhom1_TTCNKTPM)
+[![View Project](https://img.shields.io/badge/View_Project-E--Commerce-green?style=for-the-badge&logo)](https://github.com/duwj1211/Nhom1_TTCNKTPM)
 
 ---
 
@@ -72,7 +72,7 @@ A marketing-focused website designed to showcase and promote products effectivel
 - Dynamic UI built with **React** and **Bootstrap**.  
 - Backend powered by **Spring Boot**, with database management using **MySQL**.  
 
-[![View Project]](https://github.com/thanhlam30/VinfastCars)
+[![View Project](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo=springboot)](https://github.com/thanhlam30/VinfastCars)
 
 ---
 
@@ -89,7 +89,7 @@ A platform for reading and sharing novels online, featuring modern web technolog
 - A clean and intuitive UI using **React** and **Bootstrap**.  
 - Backend powered by **Spring Boot**, with data storage using **MySQL**.  
 
-[![View Project]](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
+[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo)](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
 
 ***
 
