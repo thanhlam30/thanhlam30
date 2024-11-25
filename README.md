@@ -90,6 +90,7 @@ A platform for reading and sharing novels online, featuring modern web technolog
 
 [![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo=java)](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
 
+***
 
 <div align="center">
 
