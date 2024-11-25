@@ -38,35 +38,59 @@
 
 ### 🚀 Projects
 
-
 1. E-Commerce Platform  
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
-[![E-Commerce](https://img.shields.io/badge/View_Project-E--Commerce-green?style=for-the-badge&logo=react)](https://github.com/duwj1211/Nhom1_TTCNKTPM)
+A responsive and feature-rich e-commerce platform for online shopping, built with modern web technologies.
+
+#### Tech Stack  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+#### Features  
+- Fully responsive UI using **React** and **Bootstrap**.  
+- Backend APIs powered by **Node.js** and **Express**.  
+- Database operations with **MongoDB**.  
+
+[![View Project](https://img.shields.io/badge/View_Project-E--Commerce-green?style=for-the-badge&logo=react)](https://github.com/duwj1211/Nhom1_TTCNKTPM)
 
 ---
 
 2. Marketing Website  
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
-![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
-[![Marketing Website](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo=springboot)](https://github.com/thanhlam30/VinfastCars)
+A marketing-focused website designed to showcase and promote products effectively.
+
+#### Tech Stack  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+#### Features  
+- Dynamic UI built with **React** and **Bootstrap**.  
+- Backend powered by **Spring Boot**, with database management using **MySQL**.  
+
+[![View Project](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo=springboot)](https://github.com/thanhlam30/VinfastCars)
 
 ---
 
-### 3. Web Novel Platform  
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
-![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
-[![Web Novel Platform](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo=java)](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
+3. Web Novel Platform  
+A platform for reading and sharing novels online, featuring modern web technologies.
 
+#### Tech Stack  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-***
+#### Features  
+- A clean and intuitive UI using **React** and **Bootstrap**.  
+- Backend powered by **Spring Boot**, with data storage using **MySQL**.  
+
+[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo=java)](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
+
+---
+
 
 <div align="center">
 
