@@ -42,11 +42,11 @@
 A responsive and feature-rich e-commerce platform for online shopping, built with modern web technologies.
 
 #### Tech Stack  
-[React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-[Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-[Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-[Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-[MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 #### Features  
 Fully responsive UI using **React** and **Bootstrap**.  
@@ -61,10 +61,10 @@ Database operations with **MongoDB**.
 A marketing-focused website designed to showcase and promote products effectively.
 
 #### Tech Stack  
-[React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-[Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-[Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
-[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 #### Features  
 Dynamic UI built with **React** and **Bootstrap**.  
@@ -78,10 +78,10 @@ Backend powered by **Spring Boot**, with database management using **MySQL**.
 A platform for reading and sharing novels online, featuring modern web technologies.
 
 #### Tech Stack  
-[React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-[Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-[Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
-[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 #### Features  
 A clean and intuitive UI using **React** and **Bootstrap**.  
