@@ -38,9 +38,9 @@
 
 ### 🚀 Projects
 
-[![E-Commerce]](https://github.com/duwj1211/Nhom1_TTCNKTPM)
+[![Custom Banner](https://via.placeholder.com/600x100?text=E-Commerce+Platform)](https://github.com/duwj1211/Nhom1_TTCNKTPM)
 [![Marketing Website]](https://github.com/thanhlam30/VinfastCars)
-[![Web Novel Platform](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
+[![Web Novel Platform]](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
 
 
 ***
