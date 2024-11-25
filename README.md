@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/enkay.work@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](dothanhlampt30@gmail.com)
+  [![Email](https://img.shields.io/badge/dothanhlampt30@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](dothanhlampt30@gmail.com)
 
   <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
 </div>
@@ -38,9 +38,9 @@
 
 ### 🚀 Projects
 
-[![E-Commerce]]((https://github.com/duwj1211/Nhom1_TTCNKTPM))
-[![Marketing Website]]((https://github.com/thanhlam30/VinfastCars))
-[![Web Novel Platform]((https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be))
+[![E-Commerce]](https://github.com/duwj1211/Nhom1_TTCNKTPM)
+[![Marketing Website]](https://github.com/thanhlam30/VinfastCars)
+[![Web Novel Platform](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
 
 
 ***
