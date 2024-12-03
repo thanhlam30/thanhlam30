@@ -76,20 +76,18 @@ A marketing-focused website designed to showcase and promote products effectivel
 
 ---
 
-#### 3. Web Novel Platform 
-A platform for reading and sharing novels online, featuring modern web technologies.
+#### 3. API For Web Novel Platform 
+This project provides a robust API for managing a web novel platform, developed using Java Spring Boot for the backend and MySQL for data storage.
 
 ##### Tech Stack  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ##### Features  
-- A clean and intuitive UI using **React** and **Bootstrap**.  
-- Backend powered by **Spring Boot**, with data storage using **MySQL**.  
+- Backend powered by **Spring Boot**, with data storage using **MySQL**.
+- Users can interact with each other by commenting on novels and replying to comments, creating an engaging community environment.
 
-[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo)](https://github.com/ThuTrang21/moontruyen/tree/master/moontruyen_be)
+[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo)](https://github.com/thanhlam30/web-novel-api)
 
 ***
 
