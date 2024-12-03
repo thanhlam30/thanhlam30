@@ -40,7 +40,22 @@
 
 ---
 
-#### 1. E-Commerce Platform  
+#### 1. API For Web Novel Platform 
+This project provides a robust API for managing a web novel platform, developed using Java Spring Boot for the backend and MySQL for data storage.
+
+##### Tech Stack  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+##### Features  
+- Backend powered by **Spring Boot**, with data storage using **MySQL**.
+- Users can interact with each other by commenting on novels and replying to comments, creating an engaging community environment.
+
+[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo)](https://github.com/thanhlam30/web-novel-api)
+
+---
+
+#### 2. E-Commerce Platform  
 A responsive and feature-rich e-commerce platform for online shopping, built with modern web technologies.
 
 ##### Tech Stack  
@@ -59,7 +74,7 @@ A responsive and feature-rich e-commerce platform for online shopping, built wit
 
 ---
 
-#### 2. Marketing Website (Personal Project)  
+#### 3. Marketing Website (Personal Project)  
 A marketing-focused website designed to showcase and promote products effectively.
 
 ##### Tech Stack  
@@ -74,20 +89,7 @@ A marketing-focused website designed to showcase and promote products effectivel
 
 [![View Project](https://img.shields.io/badge/View_Project-Marketing_Website-blue?style=for-the-badge&logo)](https://github.com/thanhlam30/VinfastCars)
 
----
 
-#### 3. API For Web Novel Platform 
-This project provides a robust API for managing a web novel platform, developed using Java Spring Boot for the backend and MySQL for data storage.
-
-##### Tech Stack  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-##### Features  
-- Backend powered by **Spring Boot**, with data storage using **MySQL**.
-- Users can interact with each other by commenting on novels and replying to comments, creating an engaging community environment.
-
-[![View Project](https://img.shields.io/badge/View_Project-Web_Novel_Platform-purple?style=for-the-badge&logo)](https://github.com/thanhlam30/web-novel-api)
 
 ***
 
